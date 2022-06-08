@@ -10,3 +10,6 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.nav-link:hover{
+    color: white  !important ;
+}
